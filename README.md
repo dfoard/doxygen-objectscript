@@ -42,6 +42,6 @@ Please note that this filter provides basic functionality for ObjectScript to C+
 
 # Documentation
 
-Documentation created from this repository can be found on this project's [GitHub Pages](https://dfoard.github.io/doxygen-objectscript). Please explore to see an example of the documentation that can be created from your ObjectScript classes with Doxygen.
+Documentation created from this repository can be found on this project's [GitHub Pages](https://dfoard.github.io/doxygen-mainpage). Please explore to see an example of the documentation that can be created from your ObjectScript classes with Doxygen.
 
 If you have any questions or need assistance, please don't hesitate to reach out!
